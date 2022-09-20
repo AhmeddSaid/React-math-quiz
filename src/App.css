@@ -1,0 +1,94 @@
+.App {
+  text-align: center;
+}
+
+.title {
+  color: #1e5128;
+  font-size: 64px;
+  text-shadow: 3px 3px 3px #d8e9a8;
+  user-select: none;
+  margin: 24px;
+}
+@media (max-width: 768px) {
+  .title {
+    font-size: 52px;
+  }
+}
+.equation {
+  color: #4e9f3d;
+  font-size: 52px;
+  margin: 160px auto 100px;
+  font-weight: bold;
+  user-select: none;
+}
+@media (max-width: 768px) {
+  .equation {
+    font-size: 42px;
+    padding: 5px;
+  }
+}
+.submit-btn {
+  font-size: 52px;
+  font-weight: bold;
+  margin: 100px;
+  color: #e7efd2;
+  padding: 10px;
+  background-color: #191a19;
+  outline: none;
+  border: 2px solid #e7efd2;
+  border-radius: 12px;
+  transition: 500ms;
+}
+@media (max-width: 768px) {
+  .submit-btn {
+    font-size: 42px;
+    margin: 10px;
+  }
+}
+.submit-btn:hover {
+  color: #4e9f3d;
+  border: 2px solid #bbff00;
+  text-shadow: 0px 0px 2px #bbff00;
+  box-shadow: 0px 0px 6px #bbff00;
+}
+
+.submit-btn:last-of-type:hover {
+  color: #ff0000;
+  border: 2px solid #ff0000;
+  text-shadow: 0px 0px 2px #ff0000;
+  box-shadow: 0px 0px 6px #ff0000;
+}
+
+.score-text {
+  color: #4e9f3d;
+  font-size: 52px;
+  font-weight: bold;
+  user-select: none;
+}
+@media (max-width: 768px) {
+  .score-text {
+    font-size: 42px;
+    margin: 80px auto;
+  }
+}
+
+/* Start Media Query */
+/* Small */
+@media (min-width: 768px) {
+  .container {
+    width: 750px;
+  }
+}
+/* Medium */
+@media (min-width: 992px) {
+  .container {
+    width: 970px;
+  }
+}
+/* Large */
+@media (min-width: 1200px) {
+  .container {
+    width: 1170px;
+  }
+}
+/* End Media Query */
