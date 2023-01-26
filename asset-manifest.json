@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-math-quiz/static/css/main.e08a02ad.css",
+    "main.js": "/React-math-quiz/static/js/main.e51d6e2a.js",
+    "index.html": "/React-math-quiz/index.html",
+    "main.e08a02ad.css.map": "/React-math-quiz/static/css/main.e08a02ad.css.map",
+    "main.e51d6e2a.js.map": "/React-math-quiz/static/js/main.e51d6e2a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e08a02ad.css",
+    "static/js/main.e51d6e2a.js"
+  ]
+}
