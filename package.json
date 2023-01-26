@@ -1,8 +1,8 @@
 {
   "name": "exercise",
   "version": "0.1.0",
-  "homepage": "https://gitname.github.io/react-gh-pages",
   "private": true,
+  "homepage": "https://AhmeddSaid.github.io/React-Math-Game",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",

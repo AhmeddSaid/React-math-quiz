@@ -17,7 +17,8 @@
 .equation {
   color: #4e9f3d;
   font-size: 52px;
-  margin: 160px auto 100px;
+  margin: 100px auto ;
+  padding: 40px;
   font-weight: bold;
   user-select: none;
 }
@@ -25,12 +26,13 @@
   .equation {
     font-size: 42px;
     padding: 5px;
+    margin: 120px auto;
   }
 }
 .submit-btn {
   font-size: 52px;
   font-weight: bold;
-  margin: 100px;
+  margin: 20px 100px;
   color: #e7efd2;
   padding: 10px;
   background-color: #191a19;

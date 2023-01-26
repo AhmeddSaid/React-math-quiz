@@ -17,9 +17,12 @@ const App = () => {
   return (
     <div className="App">
       <div className="game">
-        <h2 className="title">Mental Math</h2>
+        <h2 className="title">Math Game</h2>
         <Game handleAnswer={handleAnswer} />
-        <Score numCorrect={correctAnswer} numQuestions={numQuestions} />
+        <Score
+          numCorrect={correctAnswer}
+          numQuestions={numQuestions}
+        />
       </div>
     </div>
   );
