@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/React-math-quiz/static/css/main.8e0b2984.css",
-    "main.js": "/React-math-quiz/static/js/main.99206425.js",
+    "main.css": "/React-math-quiz/static/css/main.e08a02ad.css",
+    "main.js": "/React-math-quiz/static/js/main.4e591bf4.js",
     "index.html": "/React-math-quiz/index.html",
-    "main.8e0b2984.css.map": "/React-math-quiz/static/css/main.8e0b2984.css.map",
-    "main.99206425.js.map": "/React-math-quiz/static/js/main.99206425.js.map"
+    "main.e08a02ad.css.map": "/React-math-quiz/static/css/main.e08a02ad.css.map",
+    "main.4e591bf4.js.map": "/React-math-quiz/static/js/main.4e591bf4.js.map"
   },
   "entrypoints": [
-    "static/css/main.8e0b2984.css",
-    "static/js/main.99206425.js"
+    "static/css/main.e08a02ad.css",
+    "static/js/main.4e591bf4.js"
   ]
 }
